@@ -1,0 +1,3 @@
+post-build=samsung/kltespr/kltespr:6.0.1/MTC20F/G900PVPU3CPG1:userdebug/release-keys
+post-timestamp=1473452910
+pre-device=kltespr
